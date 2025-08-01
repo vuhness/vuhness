@@ -25,7 +25,7 @@ LINKEDIN: www.linkedin.com/in/vann-chan
 -->
 🔭 Here is some of my work: 
   - Machine Learning Repository: https://github.com/vuhness/ML-AI.git
-  - Academic Computer Science Assignments: 
+  - Academic Computer Science Assignments: https://github.com/vuhness/CS-Projects.git
 
 🌱 I’m currently learning... 
   - Digital Content Creation Software (DCCs) such as Blender, Maya, and Houdini to learn     more about the 3D animation pipeline. So far I've touched on layout composition,         modeling, texturing, and lighting!
@@ -40,4 +40,4 @@ LINKEDIN: www.linkedin.com/in/vann-chan
 📫 You can reach me here!
   - LinkedIn: www.linkedin.com/in/vann-chan
   - Gmail: vannessalchan@gmail.com
-  - 
+
